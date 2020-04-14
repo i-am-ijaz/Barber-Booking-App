@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240115882194",
+    "firebase_url": "https://book-barber.firebaseio.com",
+    "project_id": "book-barber",
+    "storage_bucket": "book-barber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240115882194:android:e1058c32a667827963750b",
+        "android_client_info": {
+          "package_name": "com.xmartandroid.bookbarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240115882194-18abh048snn7phvkgq4uakl5kdosd1oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xmartandroid.bookbarber",
+            "certificate_hash": "3020f1f2cb7474ca841be98b768d2485a7e8a291"
+          }
+        },
+        {
+          "client_id": "240115882194-6uur5l125tj4p76b9ml7pe6gom3piqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzaGW6glpnlkWL8Is-8yHf_85XtjIF_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240115882194-6uur5l125tj4p76b9ml7pe6gom3piqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
